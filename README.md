@@ -1,2 +1,2 @@
 # PersonalWebsite
-Personal Website illustrating my projects and experiences
+My personal Website illustrating my skills, projects and experiences
