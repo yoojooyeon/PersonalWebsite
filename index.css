@@ -46,6 +46,7 @@ p, h6 {
 .bgimg-3 {
   background-image: url("/w3images/parallax3.jpg");
   min-height: 400px;
+  opacity: 1.5;
 }
 
 .w3-wide {letter-spacing: 10px;}
